@@ -1,0 +1,20 @@
+{
+  "name": "nitflix-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.12"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.19"
+  }
+}
